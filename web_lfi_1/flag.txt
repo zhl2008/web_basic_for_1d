@@ -1,0 +1,5 @@
+<?php
+$flag = "this is no flag";
+echo $flag;
+
+?>
