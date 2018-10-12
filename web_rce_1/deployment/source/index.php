@@ -10,7 +10,7 @@ ip address:<br>
 <?php
 if(isset($_REQUEST['ip'])){
 
-    $cmd = 'ping -c 1 -w 2' . $_REQUEST['ip'];
+    $cmd = 'ping -c 1 -w 2 ' . $_REQUEST['ip'];
     $result = shell_exec($cmd);
     $match = [];
     preg_match('/time=[0-9\.]* ms/',$result,$time);
